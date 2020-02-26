@@ -1,3 +1,3 @@
 <?php
-    echo "Ini Mau Dihapus Nanti";
+    // Ini tadinya ada echo loh
 ?>
